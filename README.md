@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/OpenAI_Logo.svg)
+![OpenAI Logo](https://freepnglogo.com/images/all_img/1702059309openai-logo-png.png)
 
 * **Name of company**: OpenAI
 * **When was the company incorporated?**: December 2015
@@ -23,15 +23,13 @@
 * **What have been the major trends and innovations of this field over the last 5–10 years?**: Major trends include the rise of transformer models like GPT-3, advancements in NLP, and increasing attention to AI ethics and safety. Innovations such as transfer learning and reinforcement learning have also significantly impacted the field.
 * **What are the other major companies in this field?**: Key competitors include Google AI, DeepMind, and IBM Watson, all of which are prominent in AI research and application.
 
-![AI Trends](https://datasciencedojo.com/wp-content/uploads/emerging-AI-and-machine-learning-trends.png)
-
+![AI Trends](https://www.zreality.com/wp-content/uploads/2023/12/ZREALITY_An-abstract-3D-representation-of-the-top-6-AI-trends-in-2024.jpg
+)
 ## Results
 
 * **What has been the business impact of this company so far?**: OpenAI’s models have greatly influenced various industries by enhancing natural language understanding and generation. Their technology has been adopted by numerous companies, leading to increased efficiency and innovation in applications such as customer support, content creation, and more.
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**: Core metrics include user adoption rates, accuracy of AI models, and real-world impact. OpenAI’s GPT-3, for example, is widely used across different sectors, demonstrating high performance in various benchmarks and practical applications.
 * **How is your company performing relative to competitors in the same field?**: OpenAI is considered a leader in the NLP space, particularly due to the advanced capabilities of its language models. Compared to competitors, OpenAI’s models are often cited for their cutting-edge technology and extensive application.
-
-![Performance Metrics](https://www.kolena.com/wp-content/uploads/How-to-Validate-OpenAI-GPT-Model-Performance-with-Text-Summarization-Series-Part-1-1024x800.png)
 
 ## Recommendations
 
